@@ -1,6 +1,7 @@
 # X-Team NN Style Guide
 
 <brief description of your team's opinion or philosophy regarding Style Guides>
+Follow the code styles learned in CS300. [Link here](http://cs300-www.cs.wisc.edu/wp/index.php/2017/08/15/cs300-java-style-guide/)
 
 ## Naming conventions
 
